@@ -1,0 +1,3 @@
+#!/bin/sh
+rm file01 file02 file03 file04 file05
+
