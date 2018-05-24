@@ -1,3 +1,3 @@
 #!/bin/sh
-cd
+cd /etc
 du -b /bin/* | sort -n | head -n 5
