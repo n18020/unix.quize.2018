@@ -1,3 +1,4 @@
 #!/bin/sh
 cd
-ls / | wc -l
+ find . -type f |xargs cat | wc -l
+

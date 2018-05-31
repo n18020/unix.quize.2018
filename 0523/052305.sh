@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/sh 
 cd /etc
-du -b /bin/* | sort -n | head -n 5
+find /etc/* -type f | xargs du -b | sort -n | head -n 5
