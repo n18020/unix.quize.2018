@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo rm /var/log/syslog
+sudo rm log

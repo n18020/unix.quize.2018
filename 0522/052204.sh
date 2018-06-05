@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo less /var/log/syslog
+sudo less log
